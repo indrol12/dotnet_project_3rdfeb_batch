@@ -12,3 +12,4 @@ C:\Users\FortuneCloudIndia\source\repos\Csharp_programs_feb\Csharp_programs_feb\
 C:\Users\FortuneCloudIndia\source\repos\Csharp_programs_feb\Csharp_programs_feb\obj\Debug\net9.0\Csharp_programs_feb.pdb
 C:\Users\FortuneCloudIndia\source\repos\Csharp_programs_feb\Csharp_programs_feb\obj\Debug\net9.0\Csharp_programs_feb.genruntimeconfig.cache
 C:\Users\FortuneCloudIndia\source\repos\Csharp_programs_feb\Csharp_programs_feb\obj\Debug\net9.0\ref\Csharp_programs_feb.dll
+C:\Users\FortuneCloudIndia\source\repos\Csharp_programs_feb\Csharp_programs_feb\obj\Debug\net9.0\Csharp_programs_feb.sourcelink.json
