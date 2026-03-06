@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp_programs_feb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594e96dcbdb0d8ebd05b3dbbc2c53a83e464652c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe0e35d16f8752ee29808764a509bf0f48a5c00c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp_programs_feb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp_programs_feb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
